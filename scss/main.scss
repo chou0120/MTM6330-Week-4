@@ -1,6 +1,13 @@
 $deep-grey: #282c34;
 $white-text: rgba(255,255,255,.98);
 
-body{
+body {
   background-color: $deep-grey;
+  color: $white-text;
+}
+p {
+  background-color: whitesmoke;
+}
+h1 {
+font-size: 20em;
 }
